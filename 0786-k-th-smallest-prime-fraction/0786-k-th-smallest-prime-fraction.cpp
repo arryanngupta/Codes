@@ -5,17 +5,15 @@ public:
         priority_queue<pair<double,pair<int,int>>,
         vector<pair<double,pair<int,int>>>,
         greater<pair<double,pair<int,int>>>> pq;
-        for(int i = 0; i<n; i++){
-            for(int j = i+1; j<n; j++){
-                pq.push({(double)arr[i]/arr[j],{arr[i],arr[j]}});
-            }
+        for(int i = 0; i<n-1; i++){
+            pq.push({(double)arr[i]/arr[n-1],{i,n-1}});
         }
-        vector<int> ans(2);
-        while(k--){
-            ans[0] = pq.top().second.first;
-            ans[1] = pq.top().second.second;
+        while(k>1){
+            int i = pq.top().second.first,j = pq.top().second.second;
             pq.pop();
+            pq.push({(double)arr[i]/arr[j-1],{i,j-1}});
+            k--;
         }
-        return ans;
+        return {arr[pq.top().second.first],arr[pq.top().second.second]};
     }
 };
