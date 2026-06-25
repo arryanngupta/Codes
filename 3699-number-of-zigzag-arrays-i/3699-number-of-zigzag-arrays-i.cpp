@@ -1,8 +1,36 @@
 class Solution {
 public:
-    int dp[2001][2001][2];
+
     int mod = (int)(1e9+7);
+    int dp[2001][2001][2];
+
+    int recFind(int idx,int prev,int nature,int n,int l,int r){
+        if(idx==n) return 1;
+        if(dp[idx][prev][nature]!=-1) return dp[idx][prev][nature];
+        int ans = 0;
+        if(nature){
+            for(int i = l; i<prev; i++){
+                ans = (ans+recFind(idx+1,i,0,n,l,r))%mod;
+            }
+        }
+        else{
+            for(int i = prev+1; i<=r; i++){
+                ans = (ans+recFind(idx+1,i,1,n,l,r))%mod;
+            }
+        }
+        return dp[idx][prev][nature]=ans;
+    }
+
     int zigZagArrays(int n, int l, int r) {
+        // dp.resize(n,vector<vector<int>> (r+1,vector<int> (2,-1)));
+        // int asc = 0,dsc = 0;
+        // for(int i = l; i<=r; i++){
+        //     asc = (asc+recFind(1,i,1,n,l,r))%mod;
+        //     dsc = (dsc+recFind(1,i,0,n,l,r))%mod;
+        // }
+        // int ans = (asc+dsc)%mod;
+        // return ans;
+
         int l1 = 1;
         int r1 = r-l+1;
         for(int prev = 1; prev<=r1; prev++){
@@ -38,3 +66,5 @@ public:
         return ans;
     }
 };
+
+
