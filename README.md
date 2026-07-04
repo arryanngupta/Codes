@@ -100,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/arryanngupta/Codes/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/arryanngupta/Codes/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/arryanngupta/Codes/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arryanngupta/Codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/arryanngupta/Codes/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/arryanngupta/Codes/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arryanngupta/Codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/arryanngupta/Codes/tree/master/0662-maximum-width-of-binary-tree) |
 ## Sliding Window
@@ -171,4 +174,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/arryanngupta/Codes/tree/master/1514-path-with-maximum-probability) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/arryanngupta/Codes/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [3620-network-recovery-pathways](https://github.com/arryanngupta/Codes/tree/master/3620-network-recovery-pathways) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/arryanngupta/Codes/tree/master/0173-binary-search-tree-iterator) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/arryanngupta/Codes/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/arryanngupta/Codes/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
