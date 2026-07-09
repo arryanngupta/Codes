@@ -7,9 +7,6 @@ public:
             int ub = upper_bound(nums.begin(),nums.end(),nums[i]+maxDiff)-nums.begin()-1;
             a[i] = a[ub];
         }
-        for(auto it: a){
-            cout << it << " ";
-        }
         cout << endl;
         vector<bool> ans;
         for(auto it: queries){
