@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/arryanngupta/Codes/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/arryanngupta/Codes/tree/master/0767-reorganize-string) |
+| [0940-distinct-subsequences-ii](https://github.com/arryanngupta/Codes/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arryanngupta/Codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3614-process-string-with-special-operations-ii](https://github.com/arryanngupta/Codes/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arryanngupta/Codes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arryanngupta/Codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/arryanngupta/Codes/tree/master/0678-valid-parenthesis-string) |
+| [0940-distinct-subsequences-ii](https://github.com/arryanngupta/Codes/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/arryanngupta/Codes/tree/master/1301-number-of-paths-with-max-score) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/arryanngupta/Codes/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/arryanngupta/Codes/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
