@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/arryanngupta/Codes/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arryanngupta/Codes/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arryanngupta/Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2560-house-robber-iv](https://github.com/arryanngupta/Codes/tree/master/2560-house-robber-iv) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arryanngupta/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3971-maximum-total-value](https://github.com/arryanngupta/Codes/tree/master/3971-maximum-total-value) |
 ## Sorting
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arryanngupta/Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/arryanngupta/Codes/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/arryanngupta/Codes/tree/master/2039-the-time-when-the-network-becomes-idle) |
+| [2560-house-robber-iv](https://github.com/arryanngupta/Codes/tree/master/2560-house-robber-iv) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/arryanngupta/Codes/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/arryanngupta/Codes/tree/master/0713-subarray-product-less-than-k) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/arryanngupta/Codes/tree/master/0786-k-th-smallest-prime-fraction) |
+| [2560-house-robber-iv](https://github.com/arryanngupta/Codes/tree/master/2560-house-robber-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arryanngupta/Codes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arryanngupta/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/arryanngupta/Codes/tree/master/1301-number-of-paths-with-max-score) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/arryanngupta/Codes/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/arryanngupta/Codes/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [2560-house-robber-iv](https://github.com/arryanngupta/Codes/tree/master/2560-house-robber-iv) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arryanngupta/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/arryanngupta/Codes/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/arryanngupta/Codes/tree/master/3699-number-of-zigzag-arrays-i) |
