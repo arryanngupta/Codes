@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/arryanngupta/Codes/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arryanngupta/Codes/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arryanngupta/Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/arryanngupta/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3971-maximum-total-value](https://github.com/arryanngupta/Codes/tree/master/3971-maximum-total-value) |
 ## Sorting
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/arryanngupta/Codes/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arryanngupta/Codes/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arryanngupta/Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/arryanngupta/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/arryanngupta/Codes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arryanngupta/Codes/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/arryanngupta/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/arryanngupta/Codes/tree/master/3620-network-recovery-pathways) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/arryanngupta/Codes/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3971-maximum-total-value](https://github.com/arryanngupta/Codes/tree/master/3971-maximum-total-value) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0786-k-th-smallest-prime-fraction](https://github.com/arryanngupta/Codes/tree/master/0786-k-th-smallest-prime-fraction) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/arryanngupta/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/arryanngupta/Codes/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arryanngupta/Codes/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/arryanngupta/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/arryanngupta/Codes/tree/master/3620-network-recovery-pathways) |
 | [3971-maximum-total-value](https://github.com/arryanngupta/Codes/tree/master/3971-maximum-total-value) |
 ## Simulation
@@ -109,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/arryanngupta/Codes/tree/master/1301-number-of-paths-with-max-score) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/arryanngupta/Codes/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/arryanngupta/Codes/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/arryanngupta/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/arryanngupta/Codes/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/arryanngupta/Codes/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/arryanngupta/Codes/tree/master/3976-maximum-subarray-sum-after-multiplier) |
@@ -213,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/arryanngupta/Codes/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arryanngupta/Codes/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/arryanngupta/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/arryanngupta/Codes/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -247,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/arryanngupta/Codes/tree/master/1192-critical-connections-in-a-network) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/arryanngupta/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
