@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/arryanngupta/Codes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arryanngupta/Codes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arryanngupta/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/arryanngupta/Codes/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3620-network-recovery-pathways](https://github.com/arryanngupta/Codes/tree/master/3620-network-recovery-pathways) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/arryanngupta/Codes/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3971-maximum-total-value](https://github.com/arryanngupta/Codes/tree/master/3971-maximum-total-value) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/arryanngupta/Codes/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2560-house-robber-iv](https://github.com/arryanngupta/Codes/tree/master/2560-house-robber-iv) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arryanngupta/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/arryanngupta/Codes/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3620-network-recovery-pathways](https://github.com/arryanngupta/Codes/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/arryanngupta/Codes/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/arryanngupta/Codes/tree/master/3976-maximum-subarray-sum-after-multiplier) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/arryanngupta/Codes/tree/master/1301-number-of-paths-with-max-score) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/arryanngupta/Codes/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
