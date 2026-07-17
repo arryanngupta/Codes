@@ -34,17 +34,19 @@ public:
         }        
         vector<int> ans;
         for(auto it: queries){
-            int low = 0,high = len,res = 0;
-            while(low<=high){
-                int mid = low+(high-low)/2;
-                if(a[mid]>it){
-                    res = mid;
-                    high = mid-1;
-                }
-                else{
-                    low = mid+1;
-                }
-            }
+            int low = 0,high = len;
+            // int res = 0;
+            // while(low<=high){
+            //     int mid = low+(high-low)/2;
+            //     if(a[mid]>it){
+            //         res = mid;
+            //         high = mid-1;
+            //     }
+            //     else{
+            //         low = mid+1;
+            //     }
+            // }
+            int res = lower_bound(a.begin(),a.end(),it+1)-a.begin();
             ans.push_back(res);
         }
         return ans;
