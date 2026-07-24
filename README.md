@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/arryanngupta/Codes/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/arryanngupta/Codes/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arryanngupta/Codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1328-break-a-palindrome](https://github.com/arryanngupta/Codes/tree/master/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arryanngupta/Codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/arryanngupta/Codes/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/arryanngupta/Codes/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arryanngupta/Codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arryanngupta/Codes/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/arryanngupta/Codes/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1328-break-a-palindrome](https://github.com/arryanngupta/Codes/tree/master/1328-break-a-palindrome) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arryanngupta/Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/arryanngupta/Codes/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2560-house-robber-iv](https://github.com/arryanngupta/Codes/tree/master/2560-house-robber-iv) |
