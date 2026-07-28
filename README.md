@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arryanngupta/Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/arryanngupta/Codes/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/arryanngupta/Codes/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/arryanngupta/Codes/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2560-house-robber-iv](https://github.com/arryanngupta/Codes/tree/master/2560-house-robber-iv) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arryanngupta/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3971-maximum-total-value](https://github.com/arryanngupta/Codes/tree/master/3971-maximum-total-value) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/arryanngupta/Codes/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/arryanngupta/Codes/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/arryanngupta/Codes/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/arryanngupta/Codes/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2421-number-of-good-paths](https://github.com/arryanngupta/Codes/tree/master/2421-number-of-good-paths) |
 | [2560-house-robber-iv](https://github.com/arryanngupta/Codes/tree/master/2560-house-robber-iv) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/arryanngupta/Codes/tree/master/0149-max-points-on-a-line) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arryanngupta/Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0991-broken-calculator](https://github.com/arryanngupta/Codes/tree/master/0991-broken-calculator) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/arryanngupta/Codes/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arryanngupta/Codes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arryanngupta/Codes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arryanngupta/Codes/tree/master/3513-number-of-unique-xor-triplets-i) |
