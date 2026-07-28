@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/arryanngupta/Codes/tree/master/0316-remove-duplicate-letters) |
+| [0649-dota2-senate](https://github.com/arryanngupta/Codes/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/arryanngupta/Codes/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/arryanngupta/Codes/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/arryanngupta/Codes/tree/master/0940-distinct-subsequences-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/arryanngupta/Codes/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/arryanngupta/Codes/tree/master/0316-remove-duplicate-letters) |
 | [0621-task-scheduler](https://github.com/arryanngupta/Codes/tree/master/0621-task-scheduler) |
+| [0649-dota2-senate](https://github.com/arryanngupta/Codes/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/arryanngupta/Codes/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/arryanngupta/Codes/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/arryanngupta/Codes/tree/master/0846-hand-of-straights) |
@@ -378,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/arryanngupta/Codes/tree/master/0307-range-sum-query-mutable) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/arryanngupta/Codes/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
