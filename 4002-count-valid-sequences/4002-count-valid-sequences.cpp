@@ -36,7 +36,7 @@ public:
         // 0 -> ncr(n-1+k,k-1)
         // 1 -> ncr(n'-1+k,k-1) where n' = n-k
         // so i have used 1 wla formula in both total and odd .
-        int odd = ncr((n+k)/2-1,k-1);
+        int odd = ncr((n-k)/2-1+k,k-1);
         return (total-odd+mod)%mod;
     }
 };
