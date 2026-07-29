@@ -3,64 +3,27 @@ public:
 
     vector<int> freq;
 
-    // long long ncr(int n,int r,long long limit)
-    // {
-    //     r=min(r,n-r);
-
-    //     long long ans=1;
-
-    //     for(int i=1;i<=r;i++)
-    //     {
-    //         ans=ans*(n-r+i)/i;
-
-    //         if(ans>=limit)
-    //             return limit;
-    //     }
-
-    //     return ans;
-    // }
-
-    long long ncr(int n,int r,long long limit){
-        if(r<0 || r>n) return 0;
-
-        r=min(r,n-r);
-
-        long long ans=1;
-
-        for(int i=1;i<=r;i++){
-            long long num=n-r+i;
-            long long den=i;
-
-            long long g=__gcd(num,den);
-            num/=g;
-            den/=g;
-
-            g=__gcd(ans,den);
-            ans/=g;
-            den/=g;
-
-
-            if(ans>limit/num)
-                return limit;
-
-            ans*=num;
+    long long ncr(int n,int r,long long k){
+        long long ans = 1;
+        for(int i = 1; i<=min(n-r,r); i++){
+            ans = (ans*(n-i+1))/i;
+            if(ans>=k) return (int)k;
         }
-
-        return min(ans,limit);
+        return (int) ans;
     }
 
-    int find(int n,int k){
-        int ans = 1;
+    int find(int n,long long k){
+        long long ans = 1;
         for(char ch = 'a'; ch<='z'; ch++){
             if(freq[ch-'a']==0){
                 continue;
             }
-            int ways = ncr(n,freq[ch-'a'],k);
-            if(ans>k/ways) return k;
+            long long ways = ncr(n,freq[ch-'a'],k);
+            if(ways>=k || 1LL*ans*ways>=k) return (int)k;
             ans *= ways;
             n -= freq[ch-'a'];
         }
-        return ans;
+        return (int)ans;
     }
 
     string smallestPalindrome(string s, int k) {
