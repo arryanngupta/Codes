@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/arryanngupta/Codes/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/arryanngupta/Codes/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3614-process-string-with-special-operations-ii](https://github.com/arryanngupta/Codes/tree/master/3614-process-string-with-special-operations-ii) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/arryanngupta/Codes/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arryanngupta/Codes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/arryanngupta/Codes/tree/master/2560-house-robber-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arryanngupta/Codes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arryanngupta/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/arryanngupta/Codes/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3971-maximum-total-value](https://github.com/arryanngupta/Codes/tree/master/3971-maximum-total-value) |
 ## Sorting
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arryanngupta/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/arryanngupta/Codes/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3620-network-recovery-pathways](https://github.com/arryanngupta/Codes/tree/master/3620-network-recovery-pathways) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/arryanngupta/Codes/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/arryanngupta/Codes/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/arryanngupta/Codes/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Prefix Sum
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/arryanngupta/Codes/tree/master/0713-subarray-product-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arryanngupta/Codes/tree/master/3312-sorted-gcd-pair-queries) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/arryanngupta/Codes/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/arryanngupta/Codes/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/arryanngupta/Codes/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/arryanngupta/Codes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
