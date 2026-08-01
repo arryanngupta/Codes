@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/arryanngupta/Codes/tree/master/1328-break-a-palindrome) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arryanngupta/Codes/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arryanngupta/Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/arryanngupta/Codes/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/arryanngupta/Codes/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/arryanngupta/Codes/tree/master/2136-earliest-possible-day-of-full-bloom) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arryanngupta/Codes/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arryanngupta/Codes/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arryanngupta/Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/arryanngupta/Codes/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/arryanngupta/Codes/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2421-number-of-good-paths](https://github.com/arryanngupta/Codes/tree/master/2421-number-of-good-paths) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arryanngupta/Codes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/arryanngupta/Codes/tree/master/1514-path-with-maximum-probability) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/arryanngupta/Codes/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arryanngupta/Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/arryanngupta/Codes/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/arryanngupta/Codes/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/arryanngupta/Codes/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
