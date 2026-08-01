@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/arryanngupta/Codes/tree/master/0307-range-sum-query-mutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arryanngupta/Codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/arryanngupta/Codes/tree/master/0407-trapping-rain-water-ii) |
+| [0486-predict-the-winner](https://github.com/arryanngupta/Codes/tree/master/0486-predict-the-winner) |
 | [0621-task-scheduler](https://github.com/arryanngupta/Codes/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arryanngupta/Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/arryanngupta/Codes/tree/master/0713-subarray-product-less-than-k) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/arryanngupta/Codes/tree/master/0053-maximum-subarray) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arryanngupta/Codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/arryanngupta/Codes/tree/master/0337-house-robber-iii) |
+| [0486-predict-the-winner](https://github.com/arryanngupta/Codes/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/arryanngupta/Codes/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/arryanngupta/Codes/tree/master/0940-distinct-subsequences-ii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/arryanngupta/Codes/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/arryanngupta/Codes/tree/master/0149-max-points-on-a-line) |
+| [0486-predict-the-winner](https://github.com/arryanngupta/Codes/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arryanngupta/Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0991-broken-calculator](https://github.com/arryanngupta/Codes/tree/master/0991-broken-calculator) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/arryanngupta/Codes/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -442,5 +445,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/arryanngupta/Codes/tree/master/0486-predict-the-winner) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/arryanngupta/Codes/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/arryanngupta/Codes/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
