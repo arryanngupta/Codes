@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/arryanngupta/Codes/tree/master/0713-subarray-product-less-than-k) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/arryanngupta/Codes/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0846-hand-of-straights](https://github.com/arryanngupta/Codes/tree/master/0846-hand-of-straights) |
+| [0877-stone-game](https://github.com/arryanngupta/Codes/tree/master/0877-stone-game) |
 | [0948-bag-of-tokens](https://github.com/arryanngupta/Codes/tree/master/0948-bag-of-tokens) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/arryanngupta/Codes/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1260-shift-2d-grid](https://github.com/arryanngupta/Codes/tree/master/1260-shift-2d-grid) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/arryanngupta/Codes/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/arryanngupta/Codes/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/arryanngupta/Codes/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/arryanngupta/Codes/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/arryanngupta/Codes/tree/master/0940-distinct-subsequences-ii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/arryanngupta/Codes/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1301-number-of-paths-with-max-score](https://github.com/arryanngupta/Codes/tree/master/1301-number-of-paths-with-max-score) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/arryanngupta/Codes/tree/master/0149-max-points-on-a-line) |
 | [0486-predict-the-winner](https://github.com/arryanngupta/Codes/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arryanngupta/Codes/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/arryanngupta/Codes/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/arryanngupta/Codes/tree/master/0991-broken-calculator) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/arryanngupta/Codes/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/arryanngupta/Codes/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/arryanngupta/Codes/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/arryanngupta/Codes/tree/master/0877-stone-game) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/arryanngupta/Codes/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Recursion
 |  |
