@@ -5,16 +5,19 @@ public:
          if(n == 0){
             return 0;
          }
-    unordered_set<int> st;
+    unordered_map<int,int> mpp;
     for(auto it: a){
-        st.insert(it);
+        mpp[it] = 1;
     }
     int cnt = 1,maxCnt = 1,x = 1;
-    for(auto it: st){
+    for(auto it: mpp){
+        if(it.second==0) continue;
         x = 1;
         cnt = 1;
-        if(st.find(it-1) == st.end()){
-            while(st.find(it+x) != st.end()){
+        if(!mpp.count(it.first-1)){
+            mpp[it.first] = 0;
+            while(mpp.count(it.first+x)){
+                mpp[it.first+x] = 0;
                 cnt++;
                 maxCnt = max(cnt,maxCnt);
                 x++;
