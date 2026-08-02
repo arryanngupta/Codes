@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/arryanngupta/Codes/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/arryanngupta/Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/arryanngupta/Codes/tree/master/0149-max-points-on-a-line) |
 | [0621-task-scheduler](https://github.com/arryanngupta/Codes/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/arryanngupta/Codes/tree/master/0767-reorganize-string) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/arryanngupta/Codes/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/arryanngupta/Codes/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/arryanngupta/Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/arryanngupta/Codes/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/arryanngupta/Codes/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/arryanngupta/Codes/tree/master/0149-max-points-on-a-line) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/arryanngupta/Codes/tree/master/0128-longest-consecutive-sequence) |
 | [2421-number-of-good-paths](https://github.com/arryanngupta/Codes/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arryanngupta/Codes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/arryanngupta/Codes/tree/master/2685-count-the-number-of-complete-components) |
