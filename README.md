@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/arryanngupta/Codes/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/arryanngupta/Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/arryanngupta/Codes/tree/master/0149-max-points-on-a-line) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/arryanngupta/Codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0621-task-scheduler](https://github.com/arryanngupta/Codes/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/arryanngupta/Codes/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/arryanngupta/Codes/tree/master/0846-hand-of-straights) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/arryanngupta/Codes/tree/master/0049-group-anagrams) |
 | [0316-remove-duplicate-letters](https://github.com/arryanngupta/Codes/tree/master/0316-remove-duplicate-letters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/arryanngupta/Codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0649-dota2-senate](https://github.com/arryanngupta/Codes/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/arryanngupta/Codes/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/arryanngupta/Codes/tree/master/0767-reorganize-string) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/arryanngupta/Codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/arryanngupta/Codes/tree/master/0713-subarray-product-less-than-k) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/arryanngupta/Codes/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arryanngupta/Codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
