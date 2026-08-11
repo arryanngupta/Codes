@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arryanngupta/Codes/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/arryanngupta/Codes/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2421-number-of-good-paths](https://github.com/arryanngupta/Codes/tree/master/2421-number-of-good-paths) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arryanngupta/Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arryanngupta/Codes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/arryanngupta/Codes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arryanngupta/Codes/tree/master/3312-sorted-gcd-pair-queries) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/arryanngupta/Codes/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/arryanngupta/Codes/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2421-number-of-good-paths](https://github.com/arryanngupta/Codes/tree/master/2421-number-of-good-paths) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arryanngupta/Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arryanngupta/Codes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arryanngupta/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/arryanngupta/Codes/tree/master/3536-maximum-product-of-two-digits) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/arryanngupta/Codes/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2762-continuous-subarrays](https://github.com/arryanngupta/Codes/tree/master/2762-continuous-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arryanngupta/Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/arryanngupta/Codes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arryanngupta/Codes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arryanngupta/Codes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
