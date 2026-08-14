@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/arryanngupta/Codes/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/arryanngupta/Codes/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/arryanngupta/Codes/tree/master/0149-max-points-on-a-line) |
+| [0260-single-number-iii](https://github.com/arryanngupta/Codes/tree/master/0260-single-number-iii) |
 | [0307-range-sum-query-mutable](https://github.com/arryanngupta/Codes/tree/master/0307-range-sum-query-mutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arryanngupta/Codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/arryanngupta/Codes/tree/master/0407-trapping-rain-water-ii) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/arryanngupta/Codes/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/arryanngupta/Codes/tree/master/0260-single-number-iii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arryanngupta/Codes/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arryanngupta/Codes/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arryanngupta/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
