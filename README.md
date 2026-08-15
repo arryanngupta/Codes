@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/arryanngupta/Codes/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/arryanngupta/Codes/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/arryanngupta/Codes/tree/master/0846-hand-of-straights) |
+| [1027-longest-arithmetic-subsequence](https://github.com/arryanngupta/Codes/tree/master/1027-longest-arithmetic-subsequence) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arryanngupta/Codes/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arryanngupta/Codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arryanngupta/Codes/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/arryanngupta/Codes/tree/master/0877-stone-game) |
 | [0948-bag-of-tokens](https://github.com/arryanngupta/Codes/tree/master/0948-bag-of-tokens) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arryanngupta/Codes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1027-longest-arithmetic-subsequence](https://github.com/arryanngupta/Codes/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/arryanngupta/Codes/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1140-stone-game-ii](https://github.com/arryanngupta/Codes/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/arryanngupta/Codes/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/arryanngupta/Codes/tree/master/0713-subarray-product-less-than-k) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/arryanngupta/Codes/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arryanngupta/Codes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1027-longest-arithmetic-subsequence](https://github.com/arryanngupta/Codes/tree/master/1027-longest-arithmetic-subsequence) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/arryanngupta/Codes/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arryanngupta/Codes/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2560-house-robber-iv](https://github.com/arryanngupta/Codes/tree/master/2560-house-robber-iv) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/arryanngupta/Codes/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/arryanngupta/Codes/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/arryanngupta/Codes/tree/master/0940-distinct-subsequences-ii) |
+| [1027-longest-arithmetic-subsequence](https://github.com/arryanngupta/Codes/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/arryanngupta/Codes/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1140-stone-game-ii](https://github.com/arryanngupta/Codes/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/arryanngupta/Codes/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
