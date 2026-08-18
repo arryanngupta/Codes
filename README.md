@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arryanngupta/Codes/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arryanngupta/Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/arryanngupta/Codes/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [2029-stone-game-ix](https://github.com/arryanngupta/Codes/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/arryanngupta/Codes/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/arryanngupta/Codes/tree/master/2136-earliest-possible-day-of-full-bloom) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/arryanngupta/Codes/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/arryanngupta/Codes/tree/master/0767-reorganize-string) |
+| [2029-stone-game-ix](https://github.com/arryanngupta/Codes/tree/master/2029-stone-game-ix) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/arryanngupta/Codes/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2453-destroy-sequential-targets](https://github.com/arryanngupta/Codes/tree/master/2453-destroy-sequential-targets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arryanngupta/Codes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arryanngupta/Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/arryanngupta/Codes/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/arryanngupta/Codes/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [2029-stone-game-ix](https://github.com/arryanngupta/Codes/tree/master/2029-stone-game-ix) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/arryanngupta/Codes/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/arryanngupta/Codes/tree/master/2136-earliest-possible-day-of-full-bloom) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/arryanngupta/Codes/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1510-stone-game-iv](https://github.com/arryanngupta/Codes/tree/master/1510-stone-game-iv) |
 | [1922-count-good-numbers](https://github.com/arryanngupta/Codes/tree/master/1922-count-good-numbers) |
+| [2029-stone-game-ix](https://github.com/arryanngupta/Codes/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/arryanngupta/Codes/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/arryanngupta/Codes/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arryanngupta/Codes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -541,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/arryanngupta/Codes/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/arryanngupta/Codes/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/arryanngupta/Codes/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/arryanngupta/Codes/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/arryanngupta/Codes/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Recursion
 |  |
@@ -554,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/arryanngupta/Codes/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/arryanngupta/Codes/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/arryanngupta/Codes/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/arryanngupta/Codes/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -561,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/arryanngupta/Codes/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/arryanngupta/Codes/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/arryanngupta/Codes/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/arryanngupta/Codes/tree/master/2029-stone-game-ix) |
 ## Ordered Set
 |  |
 | ------- |
@@ -574,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/arryanngupta/Codes/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/arryanngupta/Codes/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
