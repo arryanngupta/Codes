@@ -1,18 +1,34 @@
 class Solution {
 public:
+
+    int find(int idx,vector<int>& nums,int pos){
+        int n = nums.size();
+        int nxtIdx = (idx+nums[idx]%n+n)%n;
+        if(idx==nxtIdx || (pos && nums[nxtIdx]<0) || (!pos && nums[nxtIdx]>0)) return -1;
+        return nxtIdx;
+    }
+
     bool circularArrayLoop(vector<int>& nums) {
         int n = nums.size(),i = 0;
+        vector<int> visited(n);
         while(i<n){
-            int j = (i+nums[i]%n+n)%n,cnt = 1,pos = 0;
-            if(nums[i]>0) pos = 1;
-            vector<int> visited(n);
-            while(i!=j && !visited[j]){
-                if((pos && nums[j]<0) || (!pos && nums[j]>0)) break;
-                cnt++;
-                visited[j] = 1;
-                j = (j + nums[j] % n + n) % n;
+            if(visited[i]){
+                i++;
+                continue;
             }
-            if((i==j) && (cnt>1)) return true;
+            visited[i] = 1;
+            int slow = i,fast = i,pos = nums[i]>0;
+            while(true){
+                slow = find(slow,nums,pos);
+                fast = find(fast,nums,pos);
+                if(slow==-1||fast==-1) break;
+                visited[slow] = 1;
+                visited[fast] = 1;
+                fast = find(fast,nums,pos);
+                if(fast==-1) break;
+                visited[fast] = 1;
+                if(fast==slow) return true;
+            }
             i++;
         }
         return false;
