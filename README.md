@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/arryanngupta/Codes/tree/master/0197-rising-temperature) |
+| [0550-game-play-analysis-iv](https://github.com/arryanngupta/Codes/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/arryanngupta/Codes/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/arryanngupta/Codes/tree/master/0584-find-customer-referee) |
 | [1068-product-sales-analysis-i](https://github.com/arryanngupta/Codes/tree/master/1068-product-sales-analysis-i) |
