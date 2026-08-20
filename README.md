@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/arryanngupta/Codes/tree/master/1514-path-with-maximum-probability) |
 | [1563-stone-game-v](https://github.com/arryanngupta/Codes/tree/master/1563-stone-game-v) |
 | [1642-furthest-building-you-can-reach](https://github.com/arryanngupta/Codes/tree/master/1642-furthest-building-you-can-reach) |
+| [1664-ways-to-make-a-fair-array](https://github.com/arryanngupta/Codes/tree/master/1664-ways-to-make-a-fair-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/arryanngupta/Codes/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/arryanngupta/Codes/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arryanngupta/Codes/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/arryanngupta/Codes/tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/arryanngupta/Codes/tree/master/1140-stone-game-ii) |
+| [1664-ways-to-make-a-fair-array](https://github.com/arryanngupta/Codes/tree/master/1664-ways-to-make-a-fair-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arryanngupta/Codes/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/arryanngupta/Codes/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arryanngupta/Codes/tree/master/3312-sorted-gcd-pair-queries) |
