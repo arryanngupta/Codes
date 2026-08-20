@@ -19,27 +19,19 @@ public:
 class Solution {
 public:
 
-    
+    void recFind(Node* node,Node* par){
+        if(!node) return ;
+        if(!par) node->next = NULL;
+        else if(par->right!=node) node->next = par->right;
+        else if(par->next) node->next = par->next->left;
+        else node->next = NULL;
+        recFind(node->left,node);
+        recFind(node->right,node);
+    }
 
     Node* connect(Node* root) {
         if(!root) return root;
-        queue<Node*> q;
-        q.push(root);
-        while(!q.empty()){
-            int len = q.size(),cnt = 0;
-            while(cnt<len){
-                cnt++;
-                Node* node1 = q.front();
-                q.pop();
-                if(cnt!=len){
-                    Node* node2 = q.front();
-                    node1->next = node2;
-                }
-                else node1->next = NULL;
-                if(node1->left) q.push(node1->left);
-                if(node1->right) q.push(node1->right);
-            }
-        }
+        recFind(root,NULL);
         return root;
     }
 };
