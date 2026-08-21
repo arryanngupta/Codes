@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/arryanngupta/Codes/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/arryanngupta/Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/arryanngupta/Codes/tree/master/0149-max-points-on-a-line) |
+| [0264-ugly-number-ii](https://github.com/arryanngupta/Codes/tree/master/0264-ugly-number-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arryanngupta/Codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/arryanngupta/Codes/tree/master/0457-circular-array-loop) |
 | [0621-task-scheduler](https://github.com/arryanngupta/Codes/tree/master/0621-task-scheduler) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/arryanngupta/Codes/tree/master/0264-ugly-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/arryanngupta/Codes/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/arryanngupta/Codes/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/arryanngupta/Codes/tree/master/0767-reorganize-string) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/arryanngupta/Codes/tree/master/0053-maximum-subarray) |
+| [0264-ugly-number-ii](https://github.com/arryanngupta/Codes/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arryanngupta/Codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/arryanngupta/Codes/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/arryanngupta/Codes/tree/master/0486-predict-the-winner) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/arryanngupta/Codes/tree/master/0149-max-points-on-a-line) |
 | [0263-ugly-number](https://github.com/arryanngupta/Codes/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/arryanngupta/Codes/tree/master/0264-ugly-number-ii) |
 | [0282-expression-add-operators](https://github.com/arryanngupta/Codes/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/arryanngupta/Codes/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arryanngupta/Codes/tree/master/0628-maximum-product-of-three-numbers) |
