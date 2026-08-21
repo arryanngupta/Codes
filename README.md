@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/arryanngupta/Codes/tree/master/0149-max-points-on-a-line) |
+| [0263-ugly-number](https://github.com/arryanngupta/Codes/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/arryanngupta/Codes/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/arryanngupta/Codes/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arryanngupta/Codes/tree/master/0628-maximum-product-of-three-numbers) |
