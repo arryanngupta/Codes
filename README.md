@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arryanngupta/Codes/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/arryanngupta/Codes/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/arryanngupta/Codes/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/arryanngupta/Codes/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/arryanngupta/Codes/tree/master/0316-remove-duplicate-letters) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/arryanngupta/Codes/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/arryanngupta/Codes/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/arryanngupta/Codes/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/arryanngupta/Codes/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/arryanngupta/Codes/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/arryanngupta/Codes/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/arryanngupta/Codes/tree/master/0073-set-matrix-zeroes) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arryanngupta/Codes/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/arryanngupta/Codes/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/arryanngupta/Codes/tree/master/0053-maximum-subarray) |
 | [0264-ugly-number-ii](https://github.com/arryanngupta/Codes/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arryanngupta/Codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
