@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/arryanngupta/Codes/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/arryanngupta/Codes/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/arryanngupta/Codes/tree/master/1922-count-good-numbers) |
 ## Minimax
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/arryanngupta/Codes/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/arryanngupta/Codes/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/arryanngupta/Codes/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
