@@ -1,27 +1,18 @@
 class Solution {
 public:
     int nthUglyNumber(int n) {
-        priority_queue<long long,vector<long long>,greater<long long>> pq;
-        pq.push(1);
-        unordered_map<long long,int> mpp;
-        long long ele = 0;
-        while(n && !pq.empty()){
-            n--;
-            ele = pq.top();
-            pq.pop();
-            if(!mpp.count(2LL*ele)){
-                pq.push(2LL*ele);
-                mpp[2LL*ele]=1;
-            }
-            if(!mpp.count(3LL*ele)){
-                pq.push(3LL*ele);
-                mpp[3LL*ele]=1;
-            }
-            if(!mpp.count(5LL*ele)){
-                pq.push(5LL*ele);
-                mpp[5LL*ele]=1;
-            }
+        vector<long long> a(n+1);
+        a[1] = 1;
+        int i2 = 1,i3 = 1,i5 = 1;
+        for(int i = 2; i<=n; i++){
+            long long l1 = a[i2]*2;
+            long long l2 = a[i3]*3;
+            long long l3 = a[i5]*5;
+            a[i] = min({l1,l2,l3});
+            if(a[i]==l1) i2++;
+            if(a[i]==l2) i3++;
+            if(a[i]==l3) i5++;
         }
-        return ele;
+        return a[n];
     }
 };
