@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/arryanngupta/Codes/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arryanngupta/Codes/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arryanngupta/Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/arryanngupta/Codes/tree/master/1872-stone-game-viii) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/arryanngupta/Codes/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/arryanngupta/Codes/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2029-stone-game-ix](https://github.com/arryanngupta/Codes/tree/master/2029-stone-game-ix) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/arryanngupta/Codes/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/arryanngupta/Codes/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/arryanngupta/Codes/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/arryanngupta/Codes/tree/master/1872-stone-game-viii) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/arryanngupta/Codes/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2560-house-robber-iv](https://github.com/arryanngupta/Codes/tree/master/2560-house-robber-iv) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/arryanngupta/Codes/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/arryanngupta/Codes/tree/master/1140-stone-game-ii) |
 | [1664-ways-to-make-a-fair-array](https://github.com/arryanngupta/Codes/tree/master/1664-ways-to-make-a-fair-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arryanngupta/Codes/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1872-stone-game-viii](https://github.com/arryanngupta/Codes/tree/master/1872-stone-game-viii) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/arryanngupta/Codes/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arryanngupta/Codes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/arryanngupta/Codes/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/arryanngupta/Codes/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1510-stone-game-iv](https://github.com/arryanngupta/Codes/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/arryanngupta/Codes/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/arryanngupta/Codes/tree/master/1872-stone-game-viii) |
 | [1922-count-good-numbers](https://github.com/arryanngupta/Codes/tree/master/1922-count-good-numbers) |
 | [2029-stone-game-ix](https://github.com/arryanngupta/Codes/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/arryanngupta/Codes/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/arryanngupta/Codes/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/arryanngupta/Codes/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/arryanngupta/Codes/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/arryanngupta/Codes/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/arryanngupta/Codes/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/arryanngupta/Codes/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Recursion
@@ -605,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/arryanngupta/Codes/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/arryanngupta/Codes/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/arryanngupta/Codes/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/arryanngupta/Codes/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/arryanngupta/Codes/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -613,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/arryanngupta/Codes/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/arryanngupta/Codes/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/arryanngupta/Codes/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/arryanngupta/Codes/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/arryanngupta/Codes/tree/master/2029-stone-game-ix) |
 ## Ordered Set
 |  |
