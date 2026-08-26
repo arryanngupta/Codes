@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arryanngupta/Codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arryanngupta/Codes/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/arryanngupta/Codes/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/arryanngupta/Codes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arryanngupta/Codes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arryanngupta/Codes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/arryanngupta/Codes/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arryanngupta/Codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arryanngupta/Codes/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2762-continuous-subarrays](https://github.com/arryanngupta/Codes/tree/master/2762-continuous-subarrays) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/arryanngupta/Codes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/arryanngupta/Codes/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Enumeration
 |  |
