@@ -16,7 +16,7 @@ public:
                 }
             }
         }
-        vector<vector<vector<vector<int>>>> dist(m,vector<vector<vector<int>>> (n,vector<vector<int>> (energy+1,vector<int> ((1<<cnt),0))));
+        vector<vector<vector<vector<int>>>> dist(m,vector<vector<vector<int>>> (n,vector<vector<int>> (energy+1,vector<int> ((1<<cnt),1e9))));
         queue<pair<int,pair<pair<int,int>,pair<int,int>>>> q; // {mask,{{dist,energy},{row,col}}}
         dist[sr][sc][energy][0]=0;
         q.push({0,{{0,energy},{sr,sc}}});
@@ -38,19 +38,19 @@ public:
                         if(classroom[nr][nc]=='L'){
                             int bit = a[nr][nc]-1;
                             int updMask = (1<<bit)|mask;
-                            if(!dist[nr][nc][e-1][updMask]){
+                            if(distance+1<dist[nr][nc][e-1][updMask]){
                                 dist[nr][nc][e-1][updMask] = distance+1;
                                 q.push({updMask,{{dist[nr][nc][e-1][updMask],e-1},{nr,nc}}});
                             }
                         }
                         else if(classroom[nr][nc]=='R'){
-                            if(!dist[nr][nc][energy][mask]){
+                            if(distance+1<dist[nr][nc][energy][mask]){
                                 dist[nr][nc][energy][mask] = distance+1;
                                 q.push({mask,{{dist[nr][nc][energy][mask],energy},{nr,nc}}});                   
                             }
                         }
                         else{
-                            if(!dist[nr][nc][e-1][mask]){
+                            if(distance+1<dist[nr][nc][e-1][mask]){
                                 dist[nr][nc][e-1][mask] = distance+1;
                                 q.push({mask,{{dist[nr][nc][e-1][mask],e-1},{nr,nc}}});                        
                             }
