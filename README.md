@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/arryanngupta/Codes/tree/master/0713-subarray-product-less-than-k) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/arryanngupta/Codes/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0846-hand-of-straights](https://github.com/arryanngupta/Codes/tree/master/0846-hand-of-straights) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/arryanngupta/Codes/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0877-stone-game](https://github.com/arryanngupta/Codes/tree/master/0877-stone-game) |
 | [0948-bag-of-tokens](https://github.com/arryanngupta/Codes/tree/master/0948-bag-of-tokens) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arryanngupta/Codes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arryanngupta/Codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/arryanngupta/Codes/tree/master/0407-trapping-rain-water-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/arryanngupta/Codes/tree/master/0662-maximum-width-of-binary-tree) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/arryanngupta/Codes/tree/master/0864-shortest-path-to-get-all-keys) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/arryanngupta/Codes/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arryanngupta/Codes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/arryanngupta/Codes/tree/master/0073-set-matrix-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arryanngupta/Codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/arryanngupta/Codes/tree/master/0407-trapping-rain-water-ii) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/arryanngupta/Codes/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1260-shift-2d-grid](https://github.com/arryanngupta/Codes/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/arryanngupta/Codes/tree/master/1301-number-of-paths-with-max-score) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/arryanngupta/Codes/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/arryanngupta/Codes/tree/master/0260-single-number-iii) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/arryanngupta/Codes/tree/master/0864-shortest-path-to-get-all-keys) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arryanngupta/Codes/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arryanngupta/Codes/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arryanngupta/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
