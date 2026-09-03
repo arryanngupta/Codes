@@ -29,14 +29,6 @@ public:
                 }
             }
         }
-        if(ans.size()<n){
-            for(int i = 1; i<=n; i++){
-                if(a[i]==0){
-                    ans += (i+'0');
-                    break;
-                }
-            }
-        }
         return ans;
     }
 };
