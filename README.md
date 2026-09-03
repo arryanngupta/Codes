@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/arryanngupta/Codes/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0877-stone-game](https://github.com/arryanngupta/Codes/tree/master/0877-stone-game) |
 | [0948-bag-of-tokens](https://github.com/arryanngupta/Codes/tree/master/0948-bag-of-tokens) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/arryanngupta/Codes/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arryanngupta/Codes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/arryanngupta/Codes/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/arryanngupta/Codes/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/arryanngupta/Codes/tree/master/0713-subarray-product-less-than-k) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/arryanngupta/Codes/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1140-stone-game-ii](https://github.com/arryanngupta/Codes/tree/master/1140-stone-game-ii) |
 | [1664-ways-to-make-a-fair-array](https://github.com/arryanngupta/Codes/tree/master/1664-ways-to-make-a-fair-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arryanngupta/Codes/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arryanngupta/Codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/arryanngupta/Codes/tree/master/0713-subarray-product-less-than-k) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/arryanngupta/Codes/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/arryanngupta/Codes/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arryanngupta/Codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arryanngupta/Codes/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/arryanngupta/Codes/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/arryanngupta/Codes/tree/master/0260-single-number-iii) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/arryanngupta/Codes/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/arryanngupta/Codes/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/arryanngupta/Codes/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arryanngupta/Codes/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arryanngupta/Codes/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -598,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/arryanngupta/Codes/tree/master/0649-dota2-senate) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/arryanngupta/Codes/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [2762-continuous-subarrays](https://github.com/arryanngupta/Codes/tree/master/2762-continuous-subarrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/arryanngupta/Codes/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/arryanngupta/Codes/tree/master/3589-count-prime-gap-balanced-subarrays) |
@@ -677,4 +682,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/arryanngupta/Codes/tree/master/0300-longest-increasing-subsequence) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/arryanngupta/Codes/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
