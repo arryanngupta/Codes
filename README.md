@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/arryanngupta/Codes/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/arryanngupta/Codes/tree/master/0149-max-points-on-a-line) |
 | [0263-ugly-number](https://github.com/arryanngupta/Codes/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/arryanngupta/Codes/tree/master/0264-ugly-number-ii) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/arryanngupta/Codes/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/arryanngupta/Codes/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/arryanngupta/Codes/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/arryanngupta/Codes/tree/master/1922-count-good-numbers) |
 ## Minimax
