@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/arryanngupta/Codes/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0846-hand-of-straights](https://github.com/arryanngupta/Codes/tree/master/0846-hand-of-straights) |
 | [0948-bag-of-tokens](https://github.com/arryanngupta/Codes/tree/master/0948-bag-of-tokens) |
+| [0975-odd-even-jump](https://github.com/arryanngupta/Codes/tree/master/0975-odd-even-jump) |
 | [1288-remove-covered-intervals](https://github.com/arryanngupta/Codes/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arryanngupta/Codes/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/arryanngupta/Codes/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/arryanngupta/Codes/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0877-stone-game](https://github.com/arryanngupta/Codes/tree/master/0877-stone-game) |
 | [0948-bag-of-tokens](https://github.com/arryanngupta/Codes/tree/master/0948-bag-of-tokens) |
+| [0975-odd-even-jump](https://github.com/arryanngupta/Codes/tree/master/0975-odd-even-jump) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/arryanngupta/Codes/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arryanngupta/Codes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/arryanngupta/Codes/tree/master/1027-longest-arithmetic-subsequence) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/arryanngupta/Codes/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/arryanngupta/Codes/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/arryanngupta/Codes/tree/master/0940-distinct-subsequences-ii) |
+| [0975-odd-even-jump](https://github.com/arryanngupta/Codes/tree/master/0975-odd-even-jump) |
 | [1027-longest-arithmetic-subsequence](https://github.com/arryanngupta/Codes/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/arryanngupta/Codes/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1140-stone-game-ii](https://github.com/arryanngupta/Codes/tree/master/1140-stone-game-ii) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/arryanngupta/Codes/tree/master/0173-binary-search-tree-iterator) |
 | [0316-remove-duplicate-letters](https://github.com/arryanngupta/Codes/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/arryanngupta/Codes/tree/master/0678-valid-parenthesis-string) |
+| [0975-odd-even-jump](https://github.com/arryanngupta/Codes/tree/master/0975-odd-even-jump) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arryanngupta/Codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/arryanngupta/Codes/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/arryanngupta/Codes/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -593,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arryanngupta/Codes/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/arryanngupta/Codes/tree/master/0316-remove-duplicate-letters) |
+| [0975-odd-even-jump](https://github.com/arryanngupta/Codes/tree/master/0975-odd-even-jump) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arryanngupta/Codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/arryanngupta/Codes/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/arryanngupta/Codes/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -649,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0975-odd-even-jump](https://github.com/arryanngupta/Codes/tree/master/0975-odd-even-jump) |
 | [2762-continuous-subarrays](https://github.com/arryanngupta/Codes/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
 |  |
