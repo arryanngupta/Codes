@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/arryanngupta/Codes/tree/master/1328-break-a-palindrome) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/arryanngupta/Codes/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/arryanngupta/Codes/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/arryanngupta/Codes/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1642-furthest-building-you-can-reach](https://github.com/arryanngupta/Codes/tree/master/1642-furthest-building-you-can-reach) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arryanngupta/Codes/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/arryanngupta/Codes/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/arryanngupta/Codes/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arryanngupta/Codes/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/arryanngupta/Codes/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/arryanngupta/Codes/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arryanngupta/Codes/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arryanngupta/Codes/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arryanngupta/Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/arryanngupta/Codes/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/arryanngupta/Codes/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1406-stone-game-iii](https://github.com/arryanngupta/Codes/tree/master/1406-stone-game-iii) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/arryanngupta/Codes/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1514-path-with-maximum-probability](https://github.com/arryanngupta/Codes/tree/master/1514-path-with-maximum-probability) |
 | [1563-stone-game-v](https://github.com/arryanngupta/Codes/tree/master/1563-stone-game-v) |
 | [1642-furthest-building-you-can-reach](https://github.com/arryanngupta/Codes/tree/master/1642-furthest-building-you-can-reach) |
