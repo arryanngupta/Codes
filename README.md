@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/arryanngupta/Codes/tree/master/0846-hand-of-straights) |
 | [0948-bag-of-tokens](https://github.com/arryanngupta/Codes/tree/master/0948-bag-of-tokens) |
 | [0975-odd-even-jump](https://github.com/arryanngupta/Codes/tree/master/0975-odd-even-jump) |
+| [1187-make-array-strictly-increasing](https://github.com/arryanngupta/Codes/tree/master/1187-make-array-strictly-increasing) |
 | [1288-remove-covered-intervals](https://github.com/arryanngupta/Codes/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arryanngupta/Codes/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/arryanngupta/Codes/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/arryanngupta/Codes/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1140-stone-game-ii](https://github.com/arryanngupta/Codes/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/arryanngupta/Codes/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1187-make-array-strictly-increasing](https://github.com/arryanngupta/Codes/tree/master/1187-make-array-strictly-increasing) |
 | [1260-shift-2d-grid](https://github.com/arryanngupta/Codes/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/arryanngupta/Codes/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arryanngupta/Codes/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/arryanngupta/Codes/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arryanngupta/Codes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/arryanngupta/Codes/tree/master/1027-longest-arithmetic-subsequence) |
+| [1187-make-array-strictly-increasing](https://github.com/arryanngupta/Codes/tree/master/1187-make-array-strictly-increasing) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/arryanngupta/Codes/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arryanngupta/Codes/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/arryanngupta/Codes/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/arryanngupta/Codes/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1140-stone-game-ii](https://github.com/arryanngupta/Codes/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/arryanngupta/Codes/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1187-make-array-strictly-increasing](https://github.com/arryanngupta/Codes/tree/master/1187-make-array-strictly-increasing) |
 | [1301-number-of-paths-with-max-score](https://github.com/arryanngupta/Codes/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/arryanngupta/Codes/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/arryanngupta/Codes/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -716,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/arryanngupta/Codes/tree/master/0300-longest-increasing-subsequence) |
+| [1187-make-array-strictly-increasing](https://github.com/arryanngupta/Codes/tree/master/1187-make-array-strictly-increasing) |
 | [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/arryanngupta/Codes/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 ## Brute-Force Search
 |  |
