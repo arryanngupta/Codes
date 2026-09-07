@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/arryanngupta/Codes/tree/master/2029-stone-game-ix) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/arryanngupta/Codes/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/arryanngupta/Codes/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/arryanngupta/Codes/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/arryanngupta/Codes/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/arryanngupta/Codes/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/arryanngupta/Codes/tree/master/1027-longest-arithmetic-subsequence) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/arryanngupta/Codes/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arryanngupta/Codes/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/arryanngupta/Codes/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2560-house-robber-iv](https://github.com/arryanngupta/Codes/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/arryanngupta/Codes/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/arryanngupta/Codes/tree/master/0300-longest-increasing-subsequence) |
+| [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/arryanngupta/Codes/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 ## Brute-Force Search
 |  |
 | ------- |
