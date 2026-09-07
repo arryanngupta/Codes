@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0550-game-play-analysis-iv](https://github.com/arryanngupta/Codes/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/arryanngupta/Codes/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/arryanngupta/Codes/tree/master/0584-find-customer-referee) |
+| [0596-classes-with-at-least-5-students](https://github.com/arryanngupta/Codes/tree/master/0596-classes-with-at-least-5-students) |
 | [1068-product-sales-analysis-i](https://github.com/arryanngupta/Codes/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/arryanngupta/Codes/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/arryanngupta/Codes/tree/master/1141-user-activity-for-the-past-30-days-i) |
