@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/arryanngupta/Codes/tree/master/0316-remove-duplicate-letters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arryanngupta/Codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0649-dota2-senate](https://github.com/arryanngupta/Codes/tree/master/0649-dota2-senate) |
+| [0664-strange-printer](https://github.com/arryanngupta/Codes/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/arryanngupta/Codes/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/arryanngupta/Codes/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/arryanngupta/Codes/tree/master/0940-distinct-subsequences-ii) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/arryanngupta/Codes/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/arryanngupta/Codes/tree/master/0486-predict-the-winner) |
 | [0546-remove-boxes](https://github.com/arryanngupta/Codes/tree/master/0546-remove-boxes) |
+| [0664-strange-printer](https://github.com/arryanngupta/Codes/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/arryanngupta/Codes/tree/master/0678-valid-parenthesis-string) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/arryanngupta/Codes/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0877-stone-game](https://github.com/arryanngupta/Codes/tree/master/0877-stone-game) |
