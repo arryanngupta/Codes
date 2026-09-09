@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/arryanngupta/Codes/tree/master/0767-reorganize-string) |
 | [0815-bus-routes](https://github.com/arryanngupta/Codes/tree/master/0815-bus-routes) |
 | [0846-hand-of-straights](https://github.com/arryanngupta/Codes/tree/master/0846-hand-of-straights) |
+| [0996-number-of-squareful-arrays](https://github.com/arryanngupta/Codes/tree/master/0996-number-of-squareful-arrays) |
 | [1027-longest-arithmetic-subsequence](https://github.com/arryanngupta/Codes/tree/master/1027-longest-arithmetic-subsequence) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arryanngupta/Codes/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arryanngupta/Codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/arryanngupta/Codes/tree/master/0975-odd-even-jump) |
 | [0980-unique-paths-iii](https://github.com/arryanngupta/Codes/tree/master/0980-unique-paths-iii) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/arryanngupta/Codes/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [0996-number-of-squareful-arrays](https://github.com/arryanngupta/Codes/tree/master/0996-number-of-squareful-arrays) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/arryanngupta/Codes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/arryanngupta/Codes/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/arryanngupta/Codes/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/arryanngupta/Codes/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/arryanngupta/Codes/tree/master/0940-distinct-subsequences-ii) |
 | [0975-odd-even-jump](https://github.com/arryanngupta/Codes/tree/master/0975-odd-even-jump) |
+| [0996-number-of-squareful-arrays](https://github.com/arryanngupta/Codes/tree/master/0996-number-of-squareful-arrays) |
 | [1027-longest-arithmetic-subsequence](https://github.com/arryanngupta/Codes/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/arryanngupta/Codes/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1140-stone-game-ii](https://github.com/arryanngupta/Codes/tree/master/1140-stone-game-ii) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/arryanngupta/Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/arryanngupta/Codes/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/arryanngupta/Codes/tree/master/0991-broken-calculator) |
+| [0996-number-of-squareful-arrays](https://github.com/arryanngupta/Codes/tree/master/0996-number-of-squareful-arrays) |
 | [1140-stone-game-ii](https://github.com/arryanngupta/Codes/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/arryanngupta/Codes/tree/master/1406-stone-game-iii) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/arryanngupta/Codes/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
@@ -591,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/arryanngupta/Codes/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0980-unique-paths-iii](https://github.com/arryanngupta/Codes/tree/master/0980-unique-paths-iii) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/arryanngupta/Codes/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [0996-number-of-squareful-arrays](https://github.com/arryanngupta/Codes/tree/master/0996-number-of-squareful-arrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/arryanngupta/Codes/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/arryanngupta/Codes/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/arryanngupta/Codes/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -726,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/arryanngupta/Codes/tree/master/0047-permutations-ii) |
 | [0282-expression-add-operators](https://github.com/arryanngupta/Codes/tree/master/0282-expression-add-operators) |
 | [0980-unique-paths-iii](https://github.com/arryanngupta/Codes/tree/master/0980-unique-paths-iii) |
+| [0996-number-of-squareful-arrays](https://github.com/arryanngupta/Codes/tree/master/0996-number-of-squareful-arrays) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -754,4 +760,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/arryanngupta/Codes/tree/master/0980-unique-paths-iii) |
+## Bitmask
+|  |
+| ------- |
+| [0996-number-of-squareful-arrays](https://github.com/arryanngupta/Codes/tree/master/0996-number-of-squareful-arrays) |
 <!---LeetCode Topics End-->
