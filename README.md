@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/arryanngupta/Codes/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/arryanngupta/Codes/tree/master/0049-group-anagrams) |
 | [0502-ipo](https://github.com/arryanngupta/Codes/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/arryanngupta/Codes/tree/master/0621-task-scheduler) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/arryanngupta/Codes/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/arryanngupta/Codes/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/arryanngupta/Codes/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/arryanngupta/Codes/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/arryanngupta/Codes/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/arryanngupta/Codes/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/arryanngupta/Codes/tree/master/0073-set-matrix-zeroes) |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/arryanngupta/Codes/tree/master/0047-permutations-ii) |
 | [0282-expression-add-operators](https://github.com/arryanngupta/Codes/tree/master/0282-expression-add-operators) |
 | [0980-unique-paths-iii](https://github.com/arryanngupta/Codes/tree/master/0980-unique-paths-iii) |
 ## Floyd's Cycle Finding Algorithm
