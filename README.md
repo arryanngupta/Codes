@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/arryanngupta/Codes/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/arryanngupta/Codes/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/arryanngupta/Codes/tree/master/0678-valid-parenthesis-string) |
+| [0765-couples-holding-hands](https://github.com/arryanngupta/Codes/tree/master/0765-couples-holding-hands) |
 | [0767-reorganize-string](https://github.com/arryanngupta/Codes/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/arryanngupta/Codes/tree/master/0846-hand-of-straights) |
 | [0948-bag-of-tokens](https://github.com/arryanngupta/Codes/tree/master/0948-bag-of-tokens) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arryanngupta/Codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/arryanngupta/Codes/tree/master/0337-house-robber-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/arryanngupta/Codes/tree/master/0662-maximum-width-of-binary-tree) |
+| [0765-couples-holding-hands](https://github.com/arryanngupta/Codes/tree/master/0765-couples-holding-hands) |
 | [1192-critical-connections-in-a-network](https://github.com/arryanngupta/Codes/tree/master/1192-critical-connections-in-a-network) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/arryanngupta/Codes/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arryanngupta/Codes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arryanngupta/Codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/arryanngupta/Codes/tree/master/0407-trapping-rain-water-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/arryanngupta/Codes/tree/master/0662-maximum-width-of-binary-tree) |
+| [0765-couples-holding-hands](https://github.com/arryanngupta/Codes/tree/master/0765-couples-holding-hands) |
 | [0815-bus-routes](https://github.com/arryanngupta/Codes/tree/master/0815-bus-routes) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/arryanngupta/Codes/tree/master/0864-shortest-path-to-get-all-keys) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/arryanngupta/Codes/tree/master/2039-the-time-when-the-network-becomes-idle) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/arryanngupta/Codes/tree/master/0128-longest-consecutive-sequence) |
+| [0765-couples-holding-hands](https://github.com/arryanngupta/Codes/tree/master/0765-couples-holding-hands) |
 | [2421-number-of-good-paths](https://github.com/arryanngupta/Codes/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arryanngupta/Codes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/arryanngupta/Codes/tree/master/2685-count-the-number-of-complete-components) |
@@ -550,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arryanngupta/Codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0765-couples-holding-hands](https://github.com/arryanngupta/Codes/tree/master/0765-couples-holding-hands) |
 | [1192-critical-connections-in-a-network](https://github.com/arryanngupta/Codes/tree/master/1192-critical-connections-in-a-network) |
 | [1514-path-with-maximum-probability](https://github.com/arryanngupta/Codes/tree/master/1514-path-with-maximum-probability) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/arryanngupta/Codes/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
