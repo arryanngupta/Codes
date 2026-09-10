@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/arryanngupta/Codes/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/arryanngupta/Codes/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/arryanngupta/Codes/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1537-get-the-maximum-score](https://github.com/arryanngupta/Codes/tree/master/1537-get-the-maximum-score) |
 | [1642-furthest-building-you-can-reach](https://github.com/arryanngupta/Codes/tree/master/1642-furthest-building-you-can-reach) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arryanngupta/Codes/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/arryanngupta/Codes/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/arryanngupta/Codes/tree/master/1406-stone-game-iii) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/arryanngupta/Codes/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1514-path-with-maximum-probability](https://github.com/arryanngupta/Codes/tree/master/1514-path-with-maximum-probability) |
+| [1537-get-the-maximum-score](https://github.com/arryanngupta/Codes/tree/master/1537-get-the-maximum-score) |
 | [1563-stone-game-v](https://github.com/arryanngupta/Codes/tree/master/1563-stone-game-v) |
 | [1642-furthest-building-you-can-reach](https://github.com/arryanngupta/Codes/tree/master/1642-furthest-building-you-can-reach) |
 | [1664-ways-to-make-a-fair-array](https://github.com/arryanngupta/Codes/tree/master/1664-ways-to-make-a-fair-array) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/arryanngupta/Codes/tree/master/0457-circular-array-loop) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/arryanngupta/Codes/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0948-bag-of-tokens](https://github.com/arryanngupta/Codes/tree/master/0948-bag-of-tokens) |
+| [1537-get-the-maximum-score](https://github.com/arryanngupta/Codes/tree/master/1537-get-the-maximum-score) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/arryanngupta/Codes/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arryanngupta/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arryanngupta/Codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/arryanngupta/Codes/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/arryanngupta/Codes/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/arryanngupta/Codes/tree/master/1510-stone-game-iv) |
+| [1537-get-the-maximum-score](https://github.com/arryanngupta/Codes/tree/master/1537-get-the-maximum-score) |
 | [1563-stone-game-v](https://github.com/arryanngupta/Codes/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/arryanngupta/Codes/tree/master/1872-stone-game-viii) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/arryanngupta/Codes/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
