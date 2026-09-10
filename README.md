@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/arryanngupta/Codes/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/arryanngupta/Codes/tree/master/0486-predict-the-winner) |
 | [0546-remove-boxes](https://github.com/arryanngupta/Codes/tree/master/0546-remove-boxes) |
+| [0629-k-inverse-pairs-array](https://github.com/arryanngupta/Codes/tree/master/0629-k-inverse-pairs-array) |
 | [0664-strange-printer](https://github.com/arryanngupta/Codes/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/arryanngupta/Codes/tree/master/0678-valid-parenthesis-string) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/arryanngupta/Codes/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
