@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/arryanngupta/Codes/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/arryanngupta/Codes/tree/master/1510-stone-game-iv) |
 | [1537-get-the-maximum-score](https://github.com/arryanngupta/Codes/tree/master/1537-get-the-maximum-score) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/arryanngupta/Codes/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1563-stone-game-v](https://github.com/arryanngupta/Codes/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/arryanngupta/Codes/tree/master/1872-stone-game-viii) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/arryanngupta/Codes/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arryanngupta/Codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0546-remove-boxes](https://github.com/arryanngupta/Codes/tree/master/0546-remove-boxes) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/arryanngupta/Codes/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 ## Biconnected Component
 |  |
 | ------- |
