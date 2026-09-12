@@ -13,7 +13,6 @@ class Solution {
 public:
 
     vector<pair<int,int>> a;
-    vector<int> b;
     int len,idx;
 
     TreeNode* recFind(int cnt){
