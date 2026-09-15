@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/arryanngupta/Codes/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2421-number-of-good-paths](https://github.com/arryanngupta/Codes/tree/master/2421-number-of-good-paths) |
 | [2453-destroy-sequential-targets](https://github.com/arryanngupta/Codes/tree/master/2453-destroy-sequential-targets) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/arryanngupta/Codes/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arryanngupta/Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arryanngupta/Codes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/arryanngupta/Codes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/arryanngupta/Codes/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2421-number-of-good-paths](https://github.com/arryanngupta/Codes/tree/master/2421-number-of-good-paths) |
 | [2453-destroy-sequential-targets](https://github.com/arryanngupta/Codes/tree/master/2453-destroy-sequential-targets) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/arryanngupta/Codes/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2560-house-robber-iv](https://github.com/arryanngupta/Codes/tree/master/2560-house-robber-iv) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/arryanngupta/Codes/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arryanngupta/Codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arryanngupta/Codes/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/arryanngupta/Codes/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/arryanngupta/Codes/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2762-continuous-subarrays](https://github.com/arryanngupta/Codes/tree/master/2762-continuous-subarrays) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/arryanngupta/Codes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/arryanngupta/Codes/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
