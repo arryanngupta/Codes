@@ -1,52 +1,45 @@
 class Solution {
 public:
 
-    bool check(string s){
-        int n = s.size(),i = 0,j = n-1;
+    static vector<long long> o,e;
+
+    bool check(int n){
+        string s = to_string(n);
+        int i = 0,j = s.size()-1;
         while(i<j){
             if(s[i++]!=s[j--]) return false;
         }
         return true;
     }
 
-    static vector<long long> o,e;
-
-    void find(){
-        int maxi = 1e5;
-        for(int i = 1; i<=maxi; i++){
-            string s = to_string(i);
-            if(check(s)){
-                if(i%2==0) e.push_back(i);
-                else o.push_back(i);
-            }
-            string s1 = s;
-            reverse(s1.begin(),s1.end());
-            string total = s+s1;
-            long long num = stoll(total);
-            if(num%2==0) e.push_back(num);
-            else o.push_back(num);
-            string s2 = s;
-            int flag = 0;
-            for(int j = 1; j<s1.size(); j++){
-                s2 += s1[j];
-                flag = 1;
-            }
-            if(flag==0) continue;
-            num = stoll(s2);
-            if(num%2==0) e.push_back(num);
-            else o.push_back(num);
-        }
-    }
-
     long long minOperations(vector<int>& nums) {
+        int n = nums.size(),maxi = 1e5+1;
         if(e.empty() && o.empty()){
-              find();
-        sort(e.begin(),e.end());
-        sort(o.begin(),o.end());
+            for(int i = 1; i<maxi; i++){
+                if(check(i)){
+                    if(i%2==0) e.push_back(i);
+                    else o.push_back(i);
+                }
+                string s = to_string(i);
+                string s1 = s;
+                reverse(s1.begin(),s1.end());
+                string total = s+s1;
+                long long t = stoll(total);
+                if(t%2==0) e.push_back(t);
+                else o.push_back(t);
+                for(int j = 1; j<s1.size(); j++){
+                    s += s1[j];
+                }
+                t = stoll(s);
+                if(t%2==0) e.push_back(t);
+                else o.push_back(t);
+            }
+            sort(e.begin(),e.end());
+            sort(o.begin(),o.end());
+            e.erase(unique(e.begin(), e.end()), e.end());
+            o.erase(unique(o.begin(), o.end()), o.end());
         }
-      
         long long ans = 0;
-        int n = nums.size();
         for(int i = 0; i<n; i++){
             long long mini = 1e18;
             if(nums[i]%2==0){
@@ -64,5 +57,5 @@ public:
         return ans;
     }
 };
-vector<long long> Solution::o;
-vector<long long> Solution::e;
+vector<long long> Solution :: o;
+vector<long long> Solution :: e;
