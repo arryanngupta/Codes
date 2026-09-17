@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/arryanngupta/Codes/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/arryanngupta/Codes/tree/master/0049-group-anagrams) |
 | [0282-expression-add-operators](https://github.com/arryanngupta/Codes/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/arryanngupta/Codes/tree/master/0316-remove-duplicate-letters) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/arryanngupta/Codes/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/arryanngupta/Codes/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/arryanngupta/Codes/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/arryanngupta/Codes/tree/master/0053-maximum-subarray) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/arryanngupta/Codes/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/arryanngupta/Codes/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/arryanngupta/Codes/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/arryanngupta/Codes/tree/master/0486-predict-the-winner) |
