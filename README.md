@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-number-of-good-paths](https://github.com/arryanngupta/Codes/tree/master/2421-number-of-good-paths) |
 | [2453-destroy-sequential-targets](https://github.com/arryanngupta/Codes/tree/master/2453-destroy-sequential-targets) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/arryanngupta/Codes/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/arryanngupta/Codes/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arryanngupta/Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arryanngupta/Codes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/arryanngupta/Codes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/arryanngupta/Codes/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2421-number-of-good-paths](https://github.com/arryanngupta/Codes/tree/master/2421-number-of-good-paths) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/arryanngupta/Codes/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/arryanngupta/Codes/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arryanngupta/Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arryanngupta/Codes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/arryanngupta/Codes/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/arryanngupta/Codes/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2762-continuous-subarrays](https://github.com/arryanngupta/Codes/tree/master/2762-continuous-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/arryanngupta/Codes/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/arryanngupta/Codes/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arryanngupta/Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/arryanngupta/Codes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/arryanngupta/Codes/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/arryanngupta/Codes/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/arryanngupta/Codes/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arryanngupta/Codes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/arryanngupta/Codes/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/arryanngupta/Codes/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/arryanngupta/Codes/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2560-house-robber-iv](https://github.com/arryanngupta/Codes/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/arryanngupta/Codes/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/arryanngupta/Codes/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/arryanngupta/Codes/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arryanngupta/Codes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3429-paint-house-iv](https://github.com/arryanngupta/Codes/tree/master/3429-paint-house-iv) |
