@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/arryanngupta/Codes/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/arryanngupta/Codes/tree/master/0316-remove-duplicate-letters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arryanngupta/Codes/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0472-concatenated-words](https://github.com/arryanngupta/Codes/tree/master/0472-concatenated-words) |
 | [0649-dota2-senate](https://github.com/arryanngupta/Codes/tree/master/0649-dota2-senate) |
 | [0664-strange-printer](https://github.com/arryanngupta/Codes/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/arryanngupta/Codes/tree/master/0678-valid-parenthesis-string) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/arryanngupta/Codes/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/arryanngupta/Codes/tree/master/0049-group-anagrams) |
+| [0472-concatenated-words](https://github.com/arryanngupta/Codes/tree/master/0472-concatenated-words) |
 | [0502-ipo](https://github.com/arryanngupta/Codes/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/arryanngupta/Codes/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arryanngupta/Codes/tree/master/0628-maximum-product-of-three-numbers) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arryanngupta/Codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/arryanngupta/Codes/tree/master/0407-trapping-rain-water-ii) |
 | [0457-circular-array-loop](https://github.com/arryanngupta/Codes/tree/master/0457-circular-array-loop) |
+| [0472-concatenated-words](https://github.com/arryanngupta/Codes/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/arryanngupta/Codes/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/arryanngupta/Codes/tree/master/0502-ipo) |
 | [0546-remove-boxes](https://github.com/arryanngupta/Codes/tree/master/0546-remove-boxes) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/arryanngupta/Codes/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arryanngupta/Codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/arryanngupta/Codes/tree/master/0337-house-robber-iii) |
+| [0472-concatenated-words](https://github.com/arryanngupta/Codes/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/arryanngupta/Codes/tree/master/0486-predict-the-winner) |
 | [0546-remove-boxes](https://github.com/arryanngupta/Codes/tree/master/0546-remove-boxes) |
 | [0629-k-inverse-pairs-array](https://github.com/arryanngupta/Codes/tree/master/0629-k-inverse-pairs-array) |
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/arryanngupta/Codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arryanngupta/Codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/arryanngupta/Codes/tree/master/0337-house-robber-iii) |
+| [0472-concatenated-words](https://github.com/arryanngupta/Codes/tree/master/0472-concatenated-words) |
 | [0662-maximum-width-of-binary-tree](https://github.com/arryanngupta/Codes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0765-couples-holding-hands](https://github.com/arryanngupta/Codes/tree/master/0765-couples-holding-hands) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/arryanngupta/Codes/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -834,5 +839,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/arryanngupta/Codes/tree/master/0140-word-break-ii) |
+| [0472-concatenated-words](https://github.com/arryanngupta/Codes/tree/master/0472-concatenated-words) |
 | [1938-maximum-genetic-difference-query](https://github.com/arryanngupta/Codes/tree/master/1938-maximum-genetic-difference-query) |
 <!---LeetCode Topics End-->
