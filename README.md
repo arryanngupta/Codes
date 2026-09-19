@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/arryanngupta/Codes/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/arryanngupta/Codes/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/arryanngupta/Codes/tree/master/0128-longest-consecutive-sequence) |
+| [0140-word-break-ii](https://github.com/arryanngupta/Codes/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/arryanngupta/Codes/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/arryanngupta/Codes/tree/master/0149-max-points-on-a-line) |
 | [0264-ugly-number-ii](https://github.com/arryanngupta/Codes/tree/master/0264-ugly-number-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/arryanngupta/Codes/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/arryanngupta/Codes/tree/master/0049-group-anagrams) |
+| [0140-word-break-ii](https://github.com/arryanngupta/Codes/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/arryanngupta/Codes/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/arryanngupta/Codes/tree/master/0316-remove-duplicate-letters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arryanngupta/Codes/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/arryanngupta/Codes/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/arryanngupta/Codes/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/arryanngupta/Codes/tree/master/0137-single-number-ii) |
+| [0140-word-break-ii](https://github.com/arryanngupta/Codes/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/arryanngupta/Codes/tree/master/0149-max-points-on-a-line) |
 | [0260-single-number-iii](https://github.com/arryanngupta/Codes/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/arryanngupta/Codes/tree/master/0300-longest-increasing-subsequence) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/arryanngupta/Codes/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/arryanngupta/Codes/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/arryanngupta/Codes/tree/master/0053-maximum-subarray) |
+| [0140-word-break-ii](https://github.com/arryanngupta/Codes/tree/master/0140-word-break-ii) |
 | [0264-ugly-number-ii](https://github.com/arryanngupta/Codes/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/arryanngupta/Codes/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arryanngupta/Codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -631,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/arryanngupta/Codes/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/arryanngupta/Codes/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0546-remove-boxes](https://github.com/arryanngupta/Codes/tree/master/0546-remove-boxes) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/arryanngupta/Codes/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
@@ -788,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/arryanngupta/Codes/tree/master/0047-permutations-ii) |
+| [0140-word-break-ii](https://github.com/arryanngupta/Codes/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/arryanngupta/Codes/tree/master/0282-expression-add-operators) |
 | [0980-unique-paths-iii](https://github.com/arryanngupta/Codes/tree/master/0980-unique-paths-iii) |
 | [0996-number-of-squareful-arrays](https://github.com/arryanngupta/Codes/tree/master/0996-number-of-squareful-arrays) |
@@ -827,5 +833,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/arryanngupta/Codes/tree/master/0140-word-break-ii) |
 | [1938-maximum-genetic-difference-query](https://github.com/arryanngupta/Codes/tree/master/1938-maximum-genetic-difference-query) |
 <!---LeetCode Topics End-->
