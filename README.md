@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/arryanngupta/Codes/tree/master/0767-reorganize-string) |
 | [0815-bus-routes](https://github.com/arryanngupta/Codes/tree/master/0815-bus-routes) |
 | [0846-hand-of-straights](https://github.com/arryanngupta/Codes/tree/master/0846-hand-of-straights) |
+| [0895-maximum-frequency-stack](https://github.com/arryanngupta/Codes/tree/master/0895-maximum-frequency-stack) |
 | [0996-number-of-squareful-arrays](https://github.com/arryanngupta/Codes/tree/master/0996-number-of-squareful-arrays) |
 | [1027-longest-arithmetic-subsequence](https://github.com/arryanngupta/Codes/tree/master/1027-longest-arithmetic-subsequence) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/arryanngupta/Codes/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/arryanngupta/Codes/tree/master/0173-binary-search-tree-iterator) |
 | [0316-remove-duplicate-letters](https://github.com/arryanngupta/Codes/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/arryanngupta/Codes/tree/master/0678-valid-parenthesis-string) |
+| [0895-maximum-frequency-stack](https://github.com/arryanngupta/Codes/tree/master/0895-maximum-frequency-stack) |
 | [0975-odd-even-jump](https://github.com/arryanngupta/Codes/tree/master/0975-odd-even-jump) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/arryanngupta/Codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/arryanngupta/Codes/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/arryanngupta/Codes/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/arryanngupta/Codes/tree/master/0173-binary-search-tree-iterator) |
 | [0307-range-sum-query-mutable](https://github.com/arryanngupta/Codes/tree/master/0307-range-sum-query-mutable) |
+| [0895-maximum-frequency-stack](https://github.com/arryanngupta/Codes/tree/master/0895-maximum-frequency-stack) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0895-maximum-frequency-stack](https://github.com/arryanngupta/Codes/tree/master/0895-maximum-frequency-stack) |
 | [0975-odd-even-jump](https://github.com/arryanngupta/Codes/tree/master/0975-odd-even-jump) |
 | [2762-continuous-subarrays](https://github.com/arryanngupta/Codes/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
