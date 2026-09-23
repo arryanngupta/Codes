@@ -10,17 +10,18 @@ public:
         if(x==0) mini = i;
         i--;
         int j = n-1;
-        while(i<j && (j>=0 || i>=0)){
-            if(j>=0 && x-nums[j]>=0){
-                x -= nums[j];
-                if(x==0) mini = min(mini,i+1+n-j);
-                j--;
-            }
-            else if(i>=0){
+        while(i!=j && j>=0){
+            while(i>=0 && x-nums[j]<0){
                 x += nums[i];
                 i--;
             }
-            else break;
+            if(x-nums[j]<0) break;
+            x -= nums[j];
+            if(x==0){
+                mini = min(mini,i+1+n-j);
+                if(i<0) return mini;
+            }
+            j--;
         }
         return mini==1e9?-1:mini;
     }
