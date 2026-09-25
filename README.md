@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/arryanngupta/Codes/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/arryanngupta/Codes/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/arryanngupta/Codes/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3948-lexicographically-maximum-mex-array](https://github.com/arryanngupta/Codes/tree/master/3948-lexicographically-maximum-mex-array) |
 ## String
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arryanngupta/Codes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arryanngupta/Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/arryanngupta/Codes/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
+| [3948-lexicographically-maximum-mex-array](https://github.com/arryanngupta/Codes/tree/master/3948-lexicographically-maximum-mex-array) |
 | [3971-maximum-total-value](https://github.com/arryanngupta/Codes/tree/master/3971-maximum-total-value) |
 ## Sorting
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/arryanngupta/Codes/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/arryanngupta/Codes/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/arryanngupta/Codes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3948-lexicographically-maximum-mex-array](https://github.com/arryanngupta/Codes/tree/master/3948-lexicographically-maximum-mex-array) |
 | [3971-maximum-total-value](https://github.com/arryanngupta/Codes/tree/master/3971-maximum-total-value) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/arryanngupta/Codes/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Two Pointers
@@ -752,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2762-continuous-subarrays](https://github.com/arryanngupta/Codes/tree/master/2762-continuous-subarrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/arryanngupta/Codes/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/arryanngupta/Codes/tree/master/3589-count-prime-gap-balanced-subarrays) |
+| [3948-lexicographically-maximum-mex-array](https://github.com/arryanngupta/Codes/tree/master/3948-lexicographically-maximum-mex-array) |
 ## Game Theory
 |  |
 | ------- |
