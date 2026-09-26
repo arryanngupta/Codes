@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arryanngupta/Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/arryanngupta/Codes/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1938-maximum-genetic-difference-query](https://github.com/arryanngupta/Codes/tree/master/1938-maximum-genetic-difference-query) |
+| [1993-operations-on-tree](https://github.com/arryanngupta/Codes/tree/master/1993-operations-on-tree) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/arryanngupta/Codes/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/arryanngupta/Codes/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2421-number-of-good-paths](https://github.com/arryanngupta/Codes/tree/master/2421-number-of-good-paths) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/arryanngupta/Codes/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/arryanngupta/Codes/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1938-maximum-genetic-difference-query](https://github.com/arryanngupta/Codes/tree/master/1938-maximum-genetic-difference-query) |
+| [1993-operations-on-tree](https://github.com/arryanngupta/Codes/tree/master/1993-operations-on-tree) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/arryanngupta/Codes/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2029-stone-game-ix](https://github.com/arryanngupta/Codes/tree/master/2029-stone-game-ix) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/arryanngupta/Codes/tree/master/2039-the-time-when-the-network-becomes-idle) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/arryanngupta/Codes/tree/master/0662-maximum-width-of-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/arryanngupta/Codes/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/arryanngupta/Codes/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1993-operations-on-tree](https://github.com/arryanngupta/Codes/tree/master/1993-operations-on-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arryanngupta/Codes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2421-number-of-good-paths](https://github.com/arryanngupta/Codes/tree/master/2421-number-of-good-paths) |
 ## Depth-First Search
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/arryanngupta/Codes/tree/master/1192-critical-connections-in-a-network) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/arryanngupta/Codes/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1938-maximum-genetic-difference-query](https://github.com/arryanngupta/Codes/tree/master/1938-maximum-genetic-difference-query) |
+| [1993-operations-on-tree](https://github.com/arryanngupta/Codes/tree/master/1993-operations-on-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/arryanngupta/Codes/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arryanngupta/Codes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/arryanngupta/Codes/tree/master/2685-count-the-number-of-complete-components) |
@@ -516,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/arryanngupta/Codes/tree/master/0765-couples-holding-hands) |
 | [0815-bus-routes](https://github.com/arryanngupta/Codes/tree/master/0815-bus-routes) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/arryanngupta/Codes/tree/master/0864-shortest-path-to-get-all-keys) |
+| [1993-operations-on-tree](https://github.com/arryanngupta/Codes/tree/master/1993-operations-on-tree) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/arryanngupta/Codes/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/arryanngupta/Codes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -646,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/arryanngupta/Codes/tree/master/0173-binary-search-tree-iterator) |
 | [0307-range-sum-query-mutable](https://github.com/arryanngupta/Codes/tree/master/0307-range-sum-query-mutable) |
 | [0895-maximum-frequency-stack](https://github.com/arryanngupta/Codes/tree/master/0895-maximum-frequency-stack) |
+| [1993-operations-on-tree](https://github.com/arryanngupta/Codes/tree/master/1993-operations-on-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
