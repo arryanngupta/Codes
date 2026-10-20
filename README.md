@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/arryanngupta/Codes/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/arryanngupta/Codes/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/arryanngupta/Codes/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2179-count-good-triplets-in-an-array](https://github.com/arryanngupta/Codes/tree/master/2179-count-good-triplets-in-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/arryanngupta/Codes/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/arryanngupta/Codes/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2421-number-of-good-paths](https://github.com/arryanngupta/Codes/tree/master/2421-number-of-good-paths) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arryanngupta/Codes/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/arryanngupta/Codes/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/arryanngupta/Codes/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
+| [2179-count-good-triplets-in-an-array](https://github.com/arryanngupta/Codes/tree/master/2179-count-good-triplets-in-an-array) |
 | [2560-house-robber-iv](https://github.com/arryanngupta/Codes/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/arryanngupta/Codes/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arryanngupta/Codes/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -557,12 +559,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/arryanngupta/Codes/tree/master/0053-maximum-subarray) |
 | [0307-range-sum-query-mutable](https://github.com/arryanngupta/Codes/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/arryanngupta/Codes/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2179-count-good-triplets-in-an-array](https://github.com/arryanngupta/Codes/tree/master/2179-count-good-triplets-in-an-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/arryanngupta/Codes/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/arryanngupta/Codes/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/arryanngupta/Codes/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2179-count-good-triplets-in-an-array](https://github.com/arryanngupta/Codes/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/arryanngupta/Codes/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/arryanngupta/Codes/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/arryanngupta/Codes/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -571,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/arryanngupta/Codes/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2179-count-good-triplets-in-an-array](https://github.com/arryanngupta/Codes/tree/master/2179-count-good-triplets-in-an-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/arryanngupta/Codes/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Union-Find
 |  |
@@ -764,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/arryanngupta/Codes/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/arryanngupta/Codes/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2179-count-good-triplets-in-an-array](https://github.com/arryanngupta/Codes/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/arryanngupta/Codes/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3380-maximum-area-rectangle-with-point-constraints-i](https://github.com/arryanngupta/Codes/tree/master/3380-maximum-area-rectangle-with-point-constraints-i) |
 ## Queue
@@ -820,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/arryanngupta/Codes/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0895-maximum-frequency-stack](https://github.com/arryanngupta/Codes/tree/master/0895-maximum-frequency-stack) |
 | [0975-odd-even-jump](https://github.com/arryanngupta/Codes/tree/master/0975-odd-even-jump) |
+| [2179-count-good-triplets-in-an-array](https://github.com/arryanngupta/Codes/tree/master/2179-count-good-triplets-in-an-array) |
 | [2762-continuous-subarrays](https://github.com/arryanngupta/Codes/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
 |  |
