@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arryanngupta/Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arryanngupta/Codes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/arryanngupta/Codes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/arryanngupta/Codes/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arryanngupta/Codes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/arryanngupta/Codes/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/arryanngupta/Codes/tree/master/3483-unique-3-digit-even-numbers) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/arryanngupta/Codes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arryanngupta/Codes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/arryanngupta/Codes/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/arryanngupta/Codes/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/arryanngupta/Codes/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/arryanngupta/Codes/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/arryanngupta/Codes/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/arryanngupta/Codes/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arryanngupta/Codes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/arryanngupta/Codes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/arryanngupta/Codes/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/arryanngupta/Codes/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/arryanngupta/Codes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/arryanngupta/Codes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -889,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/arryanngupta/Codes/tree/master/0140-word-break-ii) |
 | [0472-concatenated-words](https://github.com/arryanngupta/Codes/tree/master/0472-concatenated-words) |
 | [1938-maximum-genetic-difference-query](https://github.com/arryanngupta/Codes/tree/master/1938-maximum-genetic-difference-query) |
+| [3076-shortest-uncommon-substring-in-an-array](https://github.com/arryanngupta/Codes/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
