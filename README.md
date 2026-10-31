@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arryanngupta/Codes/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arryanngupta/Codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arryanngupta/Codes/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1657-determine-if-two-strings-are-close](https://github.com/arryanngupta/Codes/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/arryanngupta/Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/arryanngupta/Codes/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1938-maximum-genetic-difference-query](https://github.com/arryanngupta/Codes/tree/master/1938-maximum-genetic-difference-query) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/arryanngupta/Codes/tree/master/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arryanngupta/Codes/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arryanngupta/Codes/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1657-determine-if-two-strings-are-close](https://github.com/arryanngupta/Codes/tree/master/1657-determine-if-two-strings-are-close) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/arryanngupta/Codes/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/arryanngupta/Codes/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/arryanngupta/Codes/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/arryanngupta/Codes/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/arryanngupta/Codes/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/arryanngupta/Codes/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1657-determine-if-two-strings-are-close](https://github.com/arryanngupta/Codes/tree/master/1657-determine-if-two-strings-are-close) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/arryanngupta/Codes/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/arryanngupta/Codes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/arryanngupta/Codes/tree/master/1921-eliminate-maximum-number-of-monsters) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/arryanngupta/Codes/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/arryanngupta/Codes/tree/master/0767-reorganize-string) |
+| [1657-determine-if-two-strings-are-close](https://github.com/arryanngupta/Codes/tree/master/1657-determine-if-two-strings-are-close) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/arryanngupta/Codes/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2029-stone-game-ix](https://github.com/arryanngupta/Codes/tree/master/2029-stone-game-ix) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/arryanngupta/Codes/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
