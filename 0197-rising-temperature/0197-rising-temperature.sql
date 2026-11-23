@@ -2,5 +2,5 @@
 select today.id 
 from Weather today
 join Weather yesterday
-on today.recordDate = yesterday.recordDate + interval 1 day
+on datediff(today.recordDate,yesterday.recordDate)=1
 where today.temperature > yesterday.temperature
